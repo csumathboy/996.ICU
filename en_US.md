@@ -7,6 +7,9 @@
 "996" is an illegal work schedule (9 am - 9 pm, 6 days a week) that has become common. 
 Working for a company that encourages the "996" work schedule usually means working for more than 60 hours a week.
 
+The current standard  working time in the People's Republic of China:
+The working time is 8 hours per day, and the average weekly working time is up to 44 hours, while the overtime is up to 3 hours a day and 36 hours a month, and the overtime pay is at least 150% of normal wage. The maximum working time of each week is 48 hours. The average monthly pay days is 21.75 days.
+
 Quoted from [Labour Law of the People's Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm):
 
 **Article 36**:  
